@@ -2,7 +2,7 @@
 
 A custom Minecraft plugin that brings the End dimension to life with unique mechanics and exciting events.
 
-**Developed by:** [Nix](https://github.com/Nix) 👨‍💻
+**Developed by:** [Nix](https://github.com/Nix-main) 👨‍💻
 
 ## ✨ Features
 
