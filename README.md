@@ -6,50 +6,34 @@ A custom Minecraft plugin that brings the End dimension to life with unique mech
 
 ## ✨ Features
 
-### 👁️ Custom Eyes of Ender
-- **🎯 Portal-Specific Navigation**: 12 custom eyes of ender that only work on a custom end portal
-- **✨ Enhanced Visual Effects**: Custom eyes should give players a glowing effect
-- **🌟 Targeted Functionality**: Eyes should go towards the custom portal location
+### 1. 👁️ Custom Eyes of Ender
+12 custom eyes of ender that only work on a custom end portal
+   1. Should go towards that custom portal 🎯
+   2. Custom eyes should give players glowing ✨
 
-### ⚔️ Enhanced PvP & Gameplay
-Eyes provide significant advantages for both PvP and regular gameplay:
-- **🗡️ Combat Bonuses**: 
-  - 🏃‍♂️ Attack speed increased to 4.6
-  - 🛡️ Armor enhancement
-  - 💨 Speed boost (Level 1)
-  - 💪 Strength boost (Level 1) 
-  - 🔥 Fire resistance
-  - ♾️ Infinite items while in inventory
-  - ❤️ 3 extra hearts
+### 2. ⚔️ Enhanced PvP & Gameplay
+Eyes should give advantage for pvp &/or regular gameplay
+   1. People should want to have them 🌟
+   2. **Ideas:**
+      1) Attack speed = 4.6 🗡️
+      2) Armor increased 🛡️
+      3) Speed 1, strength 1, fire res, infinite while in inventory 💨💪🔥♾️
+      4) 3 extra hearts ❤️
 
-### 🌍 End Opening Event
-- **📢 Server-Wide Announcement**: End opening should be announced as a major server event
-- **🚪 Portal Unlocking**: All portals unlock after the main custom portal is opened
-- **🏝️ Strategic Positioning**: Players are sent to the end in a circle around the island
-- **⏱️ Entry Protection**: After a player goes through, entry point is "locked" for 5 seconds
+### 3. 🌍 End Opening Event
+End opening should be announced (do an event for this most likely)
+   1. All portals should unlock after the main custom portal is opened 🚪
+   2. Players should be sent to the end in a circle around the Island 🏝️
+      1) After a player goes through, entry point of entry is "locked" for 5 seconds ⏱️
 
-### 🐲 Enhanced Dragon Egg Powers
-The dragon egg gains special abilities:
-
-#### 🔋 Passive Abilities
-- **⬆️ Double Jump**: Enhanced mobility with double jump capability
-
-#### ⚡ Active Abilities
-- **🧛‍♂️ Vampire Tornado**: 
-  - 🌪️ Players in radius get levitated and slowly moved towards you
-  - 💔 They take damage (up to 3 hearts)
-  - 🩸 You heal the amount of damage dealt each time they take damage
-
-## 🎮 How It Works
-
-The EndEvent plugin transforms the traditional End experience by making it more strategic and event-driven. Players must work together or compete to access the End dimension, with enhanced gameplay mechanics that reward skill and preparation.
-
-## 🚀 Installation
-
-1. Download the plugin JAR file
-2. Place it in your server's `plugins` folder
-3. Restart your server
-4. Configure the plugin settings as needed
+### 4. 🐲 Dragon Egg Powers
+Dragon egg should have some kind of power
+   1. **Ideas:**
+      1) **Passive:** Double Jump? ⬆️
+      2) **Active:** Vampire Tornado 🧛‍♂️🌪️
+         1. Players in a radius get levitated up and slowly moved towards you 🌀
+         2. They take damage (up to 3 hearts) 💔
+         3. You heal the amount of damage dealt each time they take damage 🩸
 
 ---
 
